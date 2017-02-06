@@ -20,9 +20,17 @@ API Provided
 
 
 Run app : 
--------------
+---------
 
 	1. Start the Server.
 	2. Hit the Url http://localhost:8080/
 
 For this app. Let's provide documentation using Swagger.
+
+
+Add swagger2 Dependency to Gradle: 
+---------
+1. Add springfox-swagger2 dependency in gradle project.
+2. Install these dependency gradle.
+
+
