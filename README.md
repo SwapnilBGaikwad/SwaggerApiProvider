@@ -30,7 +30,12 @@ For this app. Let's provide documentation using Swagger.
 
 Add swagger2 Dependency to Gradle: 
 ---------
-1. Add springfox-swagger2 dependency in gradle project.
-2. Install these dependency gradle.
+	1. Add springfox-swagger2 dependency in gradle project.
+	2. Install these dependency gradle.
+	3. Provide Swagger configuration.
+		I. Specify routes for which swagger can generate documentation.
+		
+Visit URL : http://localhost:8080/v2/api-docs
+See the generated swagger.json file.
 
-
+		
